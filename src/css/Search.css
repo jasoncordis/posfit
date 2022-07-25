@@ -1,0 +1,75 @@
+.search {
+    padding: 20em;
+    background-color: #303841;
+    color: white;
+}
+.left {
+    height: 300px;
+}
+.video_list{
+    font-family: 'Noto Sans', Arial;
+}
+.video_link{
+    color: lightblue;
+}
+.flex-box{
+    display:flex;
+}
+.video{
+    padding: 10em;
+    background-color: blue;
+}
+.search-bar{
+    width:80rem;
+    color:white;
+    background-color: #303841
+}
+.search-bar-form{
+    width:80%;
+    color: red;
+}
+.search-box{
+    background-color: grey;
+    width:80%;
+    height: 2em;
+    font-family: 'Noto Sans', Arial;
+    color:white;
+    border-radius: 0;
+    margin-right:1em;
+    margin-bottom: 5em;
+    border: none;
+}
+.search-button{
+    height: 2.5em;
+    color:white;
+    margin: 2em;
+    background-color: #4a4f55;
+    font-family: 'Noto Sans', Arial;
+    border: none;
+    text-align:center;
+}
+.text{
+    font-size: 20px;
+    background-color: #303841;
+    color: white;
+    font-family: 'Noto Sans', Arial;
+}
+.text-desc{
+    color:white;
+}
+.line{
+    color:black;
+    background-color: black;
+    
+}
+.videoBox{
+    padding:3rem;
+    height : 20rem;
+    background-color: black;
+    width: 90%;
+}
+.inner-video-box{
+    height:18rem;
+    background-color: #303841;
+    color: white;
+}

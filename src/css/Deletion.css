@@ -1,0 +1,55 @@
+.account-deletion {
+    padding: 8em;
+    background-color: #3A4750;
+    display: block;
+    color: white;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+
+.acc-box{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    
+}
+
+.delete-acc-form{
+    background-color: #303841;
+    width: 300px;
+    height: 300px;
+    /* padding: 1.5rem; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    margin: auto;
+    border-radius: 2%;
+    font-size: 25px;
+    color: white;
+}
+
+button[name="delete-acc-button"]{
+    display: block;
+    border-radius: 0.3rem;
+    background-color: #2185D5;
+    text-decoration:none;
+    text-align:center;
+    margin-top: 2%;
+    padding: 0.5rem;
+    color:#FFFFFF;
+    font-size: 1.2rem;
+    font-family: Karla;
+    border: none;
+    cursor: pointer;
+}
+
+.delete-input{
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 2%;
+    width: 70%;
+}
