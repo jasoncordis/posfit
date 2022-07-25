@@ -20,26 +20,8 @@ PosFit has one feature that none of our competitors have is providing free feedb
 <li>AI Model Highlights Incorrect Poses</li>
 </ul>
 
-# Team Structure
-Team Lead:      Zack Wang \
-SCRUM Master:   John San Jose \
-GitHub Master:  Jason Cordis \
-Front-end Lead: Brian Frey \
-Back-end Lead:  Darshil Dhameliya
-
-Front-end Members:
-1)  Brian Frey
-2)  Vincent Wong
-3)  Minseon Park
-
-Back-end Members:
-1)  Darshil Dhameliya
-2)  John San Jose
-3)  Jason Cordis
-
 # Global Host
-Project is hosted by AWS. Click the following link to view the project. \
-https://netfitness.s3.us-west-1.amazonaws.com/index.html
+https://posfit.herokuapp.com
 
 # Local Installation and Run
 1) download the source folder from GitHub
